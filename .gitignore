@@ -430,3 +430,6 @@ FodyWeavers.xsd
 
 #time-analytics.json
 time-analytics.json
+
+#add desktop.Including
+desktop.ini
